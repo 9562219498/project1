@@ -24,5 +24,6 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
+![YOUTUBE%20THUMBNAIL-2 png](https://user-images.githubusercontent.com/84852908/119820057-b3af7580-bf0e-11eb-9b3a-7cd9a6f451f3.png)
 
 
